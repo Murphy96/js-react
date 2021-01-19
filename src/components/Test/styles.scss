@@ -1,0 +1,20 @@
+.layout {
+  width: 60%;
+  margin: auto;
+  .title {
+    font-weight: 800;
+    font-size: 56px;
+    text-align: center;
+  }
+  .input {
+    text-align: center;
+  }
+  .stats {
+    .stat {
+      display: flex;
+    }
+  }
+  .button {
+    text-align: center;
+  }
+}
