@@ -1,0 +1,20 @@
+.timer {
+  margin-left: auto;
+  margin-right: auto;
+  margin: 1px solid;
+  width: 200px;
+  height: 200px;
+}
+.timer>div {
+  width: 200px;
+  height: 100px;
+}
+.clock {
+  color:white;
+  background-color: black;
+}
+.clock-hands{
+  padding: 25px 0;
+  text-align: center;
+  font-size: 30px;
+}

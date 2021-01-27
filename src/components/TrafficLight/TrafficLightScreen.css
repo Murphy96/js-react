@@ -1,0 +1,27 @@
+.light {
+  border: 2px solid black;
+  padding: 10px 10px;
+  width: 100px;
+  margin: auto;
+
+}
+.light>div {
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+}
+.on {
+  opacity: .9;
+}
+.off {
+  opacity: .1;
+}
+.red {
+  background-color: red;
+}
+.yellow {
+  background-color: yellow;
+}
+.green {
+  background-color: green;
+}

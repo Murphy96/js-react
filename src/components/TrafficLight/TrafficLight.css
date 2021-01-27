@@ -1,0 +1,22 @@
+.traffic-light {
+  padding: 5px;
+}
+.traffic-light > div{
+  height: 50px;
+  width: 50px;
+}
+.red {
+  background-color: red;
+}
+.yellow {
+  background-color: yellow;
+}
+.green {
+  background-color: green;
+}
+.on {
+  opacity: 1;
+}
+.off {
+  opacity: 0.1;
+}
